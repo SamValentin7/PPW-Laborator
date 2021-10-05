@@ -1,0 +1,24 @@
+ul{
+  border: 3px dashed rgb(88, 197, 74);
+}
+
+ul.secondList{
+  border: 6px dotted rgb(196, 238, 879);
+}
+
+li{
+  background-color: rgb(50, 5, 255);
+  margin-top: 3px;
+} 
+
+li.item{
+  background-color: rgb(15, 179, 255);
+}
+
+li#different{
+  background-color: rgb(255, 0, 106);
+}
+
+*{
+  background-color: rgb(184, 230, 173);
+}
